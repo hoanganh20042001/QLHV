@@ -1,0 +1,181 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "QLHVContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "proc",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "QLHV_API",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[AddHocVien]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteDonVi]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteHV]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteNguoiDung]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[deleteTrangThaiHV]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetDetailHV]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetDiem]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetDiembysearch]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetHV]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetJsonStringData]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetNguoiDung]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetNguoiDungById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetOrganizationHierarchy]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetTrangThaiHV]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[GetTrangThaiHVById]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsertDonVi]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[insertLopMonHoc]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsertNguoiDung]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[searchHV]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[searchNguoiDung]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateDonVi]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[updateHocVien]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateNguoiDung]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[usp_InsertDONVI]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[usp_UpdateDONVI]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[ComputeSha256Hash]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[ConvertTableToJson]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[GenerateLop]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[GenerateMaHV]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[GetDay]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[getDV]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[getDVbyid]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[GetEmployeesAsJson]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[GetProductByIdAsJson]",
+         "ObjectType": 2
+      },
+      {
+         "Name": "[dbo].[thuocquyen]",
+         "ObjectType": 2
+      }
+   ],
+   "UiHint": "hoanganh.QLHV.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
